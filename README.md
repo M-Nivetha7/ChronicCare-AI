@@ -21,7 +21,7 @@ It combines a **Flask backend** (for model predictions) with a **simple HTML/Jav
 - **HTML, CSS, JavaScript** (frontend)
 
 ---
-
+```
 ## 📂 Project Structure
 disease_prediction_project/
 │── app.py # Flask backend
@@ -31,7 +31,7 @@ disease_prediction_project/
 │ └── index.html # Frontend (form for input + results)
 │── static/
 └── style.css # (Optional) Styling
-
+```
 yaml
 Copy code
 
